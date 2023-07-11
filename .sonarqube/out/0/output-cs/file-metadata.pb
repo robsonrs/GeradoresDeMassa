@@ -1,0 +1,10 @@
+K
+BC:\Users\robso\OneDrive\Projetos\GeradoresDeMassa\Geradores\Cnh.csutf-8K
+BC:\Users\robso\OneDrive\Projetos\GeradoresDeMassa\Geradores\Cpf.csutf-8M
+DC:\Users\robso\OneDrive\Projetos\GeradoresDeMassa\Helpers\Arquivo.csutf-8M
+DC:\Users\robso\OneDrive\Projetos\GeradoresDeMassa\Helpers\Request.csutf-8S
+JC:\Users\robso\OneDrive\Projetos\GeradoresDeMassa\Models\GeradorRetorno.csutf-8E
+<C:\Users\robso\OneDrive\Projetos\GeradoresDeMassa\Program.csutf-8p
+eC:\Users\robso\OneDrive\Projetos\GeradoresDeMassa\obj\Debug\net6.0\GeradoresDeMassa.GlobalUsings.g.csutf-8|
+qC:\Users\robso\OneDrive\Projetos\GeradoresDeMassa\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8n
+cC:\Users\robso\OneDrive\Projetos\GeradoresDeMassa\obj\Debug\net6.0\GeradoresDeMassa.AssemblyInfo.csutf-8
